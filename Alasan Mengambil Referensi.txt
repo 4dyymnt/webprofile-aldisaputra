@@ -1,0 +1,28 @@
+Nama : Aldi Saputra
+NPM : 5520124067
+Kelas : Informatika-C-24
+
+TUGAS PEMBUATAN WEB 
+
+Alasan saya menjadikan Web profile Suzuki sebagai referensi karena :
+
+1. Tampilan profesional dan konsisten
+   Website Suzuki Indonesia memiliki desain yang rapi, modern, dan konsisten di setiap halamannya, sehingga cocok dijadikan contoh dalam menerapkan prinsip UI/UX yang baik.
+
+2. Struktur navigasi jelas dan mudah dipahami
+   Menu dan kategori disusun dengan baik, memudahkan pengunjung menemukan informasi. Hal ini dapat menjadi referensi dalam merancang navigasi website yang user-friendly.
+
+3. Responsif di berbagai perangkat
+   Website Suzuki Indonesia dapat diakses dengan baik melalui desktop, tablet, maupun smartphone, sehingga menjadi contoh penerapan desain web responsif.
+
+4. Penyajian informasi lengkap dan terstruktur
+   Informasi produk, spesifikasi, berita, dan layanan disajikan secara jelas dan terorganisir, sehingga bisa dijadikan acuan dalam pengelolaan konten website.
+
+5. Penggunaan elemen visual yang efektif
+   Gambar, banner, dan ikon digunakan secara proporsional untuk mendukung informasi tanpa mengganggu kenyamanan pengguna.
+
+6. Kecepatan dan performa website yang baik
+   Website memiliki waktu muat yang relatif cepat, sehingga bisa dijadikan contoh penerapan optimasi performa web.
+
+7. Mewakili website perusahaan besar dan terpercaya
+   Suzuki Indonesia sebagai perusahaan otomotif ternama memiliki standar tinggi dalam kualitas website, sehingga relevan dijadikan referensi untuk tugas akademik.
